@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!README
+
+!Makefile
+
+!stb_image.h
+!stb_image_write.h
+!frames_to_sprite.c

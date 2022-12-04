@@ -1,0 +1,7 @@
+Example:
+    `$ ./ftss Spritesheet_000.png Spritesheet_001.png Spritesheet_002.png`
+    - will result to out.png file.
+
+Limitations:
+    - assumes that all of the images are the same size.
+    - will output to one row of sprites.
